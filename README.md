@@ -31,6 +31,7 @@
 * The user will be redirected to a contact form.
 * After entering all the required information the user can submit the form by clicking the "submit" button.
 * If all the required fields are not entered, the webpage will alert the user to enter all the fields to proceed with submitting the form
+* After clicking submit button and entering all required info, the realtor will recieve the contact form 
 
 ### Property Search:
 * Click on the "Properties" option on the navigation bar to search for properties.
